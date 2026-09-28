@@ -185,10 +185,3 @@ Click on any step to view:
 
 TypeScript cannot handle type information for `.vue` imports by default. We use `vue-tsc` for type checking instead of `tsc`. In editors, [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) makes the TypeScript language service aware of `.vue` types.
 
-## License
-
-Private project.
-
-## Contributing
-
-This is a private project. For questions or issues, contact the project maintainers.
